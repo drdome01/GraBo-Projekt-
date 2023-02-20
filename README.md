@@ -1,10 +1,3 @@
-Dieses Projekt wurde erstellt von:
-
-Name: Dominik Ruppert \
-Matrikelnummer: 35597 \
-Fremde Codebestandteile: Der Style und der allgemeine Aufbau der Datei App.vue wurden von 
-dem Framework automatisch erstellt und auch beibehalten. \
-
 Die Single-Page Application enthält deutlich mehr Komponenten als benötigt, da sie wenig Sinn gemacht hätte ohne die zusätzlichen
 Komponenten. Allgemein habe ich versucht einen logischen und leicht zu lesenden Aufbau der Komponenten anzustreben.
 Die Komponenten habe ich versucht nach ihrer Funktion zu benennen.
